@@ -46,3 +46,9 @@ ForgeEssentials/PermissionList_Blocks.txt
 ForgeEssentials/PermissionList_Items.txt
 ForgeEssentials/PermissionsList.txt
 ForgeEssentials/modlist.txt
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack

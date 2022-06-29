@@ -1,0 +1,33 @@
+// For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
+
+[player]
+power: 1
+default_player_rank: true
+ftbutilities.claims.max_chunks: 100
+ftbutilities.chunkloader.max_chunks: 0
+command.tpa: true
+command.trade: true
+command.yes: true
+command.no: true
+command.wallet: true
+command.tickdynamic: true
+ftbutilities.homes.max: 3
+ftbutilities.homes.warmup: 0
+ftbutilities.homes.cooldown: 0
+
+[op]
+power: 2
+ftbutilities.claims.max_chunks: 300
+ftbutilities.chunkloader.max_chunks: 1
+ftbutilities.chat.name_format: <&2Admin &l{name}&r>
+ftbutilities.chat.text.italic: true
+
+[admin]
+power: 3
+default_op_rank: true
+example.other_permission: true
+ftbutilities.chunkloader.max_chunks: 0
+
+[oc]
+power: 4
+command.say: true

@@ -1,0 +1,13 @@
+name = "OpenComputers"
+filename = "OpenComputers-MC1.12.2-1.7.5.192.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YiAbZis2/versions/1.7.5.192/OpenComputers-MC1.12.2-1.7.5.192.jar"
+hash-format = "sha1"
+hash = "8eff5dc6b00a50b13ad6f3e6a838049bbf8306f8"
+
+[update]
+[update.modrinth]
+mod-id = "YiAbZis2"
+version = "J41J9xHt"

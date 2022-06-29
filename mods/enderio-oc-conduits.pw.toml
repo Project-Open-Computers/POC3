@@ -1,0 +1,13 @@
+name = "Ender IO - OC Conduits"
+filename = "EnderIO-conduits-opencomputers-1.12.2-5.3.70.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SjhI09bi/versions/5.3.70/EnderIO-conduits-opencomputers-1.12.2-5.3.70.jar"
+hash-format = "sha1"
+hash = "9ba8e5afe99e9937f059c45cd64b1653a12c488f"
+
+[update]
+[update.modrinth]
+mod-id = "SjhI09bi"
+version = "yAMJNEkS"

@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "6df220778b2b28fb9d2adabf580fc4eae0466a7af1572ac002cbb0987d1b2b4c"
+
+[[files]]
+file = "ReadMe_OCForum.md"
+hash = "ab410ea2a386a13ead63b37cb8c200072ff68d22ca5659df586b483fcb54c1a3"
+
+[[files]]
+file = "ReadMe_TechnicPack.md"
+hash = "8950dfd35380c5718b7ef83b8e86785e70f095d1e258062847b57a5e41debe2b"
+
+[[files]]
 file = "bin/modpack.jar"
 hash = "29a7372b5801c2ea01acffa8b238256d131d770bcd18148d6f2d5c2a40bc6a6a"
 
@@ -3752,6 +3764,31 @@ hash = "d56f22049555a71eb22c72d4a07fdc520af07da3cbb0eeb0283bcef87c370a71"
 metafile = true
 
 [[files]]
+file = "mods/enderio-ae2-conduits.pw.toml"
+hash = "8229b6ec30218e224b50b7d5d7569578aa1f7fe2b74ca3dade8834573c46b069"
+metafile = true
+
+[[files]]
+file = "mods/enderio-base.pw.toml"
+hash = "e07a0c5cf98eba920b8c030998abc545bbec31f0346f70ea9d7bf6e590e46860"
+metafile = true
+
+[[files]]
+file = "mods/enderio-conduits.pw.toml"
+hash = "59cbf92409d0b7128d5a5ee21f73e95acdd6d0cbc9d7a92d624509513c082d9d"
+metafile = true
+
+[[files]]
+file = "mods/enderio-machines.pw.toml"
+hash = "16213180cbaeb769247edabfacfa30e02383b44085ecf21c82015fe717e09d7d"
+metafile = true
+
+[[files]]
+file = "mods/enderio-oc-conduits.pw.toml"
+hash = "8c7ffcc6ae10690d64037d065920d090f76ef577f8ad235ad567bad3ca9006dd"
+metafile = true
+
+[[files]]
 file = "mods/extracells2.pw.toml"
 hash = "40128b235af7cb2c5ccb70193e483762611dfca95a15e838d0967154142a7cc8"
 metafile = true
@@ -3779,6 +3816,11 @@ metafile = true
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "49231a7e4c1f8b01846415b4035b43cdf35a5d457d9393c3223878b357eca439"
+metafile = true
+
+[[files]]
+file = "mods/foamfix.pw.toml"
+hash = "d3e26c89528df7d9d2df670eae8c765f9c1e7dc3de476b7574c51dad9f50027a"
 metafile = true
 
 [[files]]
@@ -4008,6 +4050,11 @@ metafile = true
 [[files]]
 file = "mods/omlib.pw.toml"
 hash = "d8114f6b03696f04b1d5417fe0ad7733b65e7142b45742382bbcdaedfd7cf83e"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers.pw.toml"
+hash = "c821312385a88cefe783b5c9989b1e392d0e5b490b20ed436e0caa265794eaba"
 metafile = true
 
 [[files]]
@@ -4273,6 +4320,34 @@ metafile = true
 file = "mods/zetta-industries.pw.toml"
 hash = "4b461c892b40b426ccee6246aafbf7eebc3ff6cb66c3ee947b958425aee5a85d"
 metafile = true
+
+[[files]]
+file = "readme/exportReadme.bat"
+hash = "b606a664f6a11882da7457191dac6c0755e31e908b36410092acbe102a39509e"
+
+[[files]]
+file = "readme/exportReadme.lua"
+hash = "180762913aefaf3b8a7c9397ec3ea92ca9f1ca88a792dd0e6cdc13846e55c51b"
+
+[[files]]
+file = "readme/exportReadme.sh"
+hash = "99fc855f1df67148b44182f950ef0d82ea9fd59513704476dd793d619fc5cd05"
+
+[[files]]
+file = "readme/modlists/MODLIST.txt"
+hash = "bfbf542f224849dd2f8c732e09d43721a911af66857bc68f509ca2908fdce25d"
+
+[[files]]
+file = "readme/readmes/README.md"
+hash = "9549c590fffb2442225629b4a5b114b571e45bb6f548c990641d980556bda8d1"
+
+[[files]]
+file = "readme/readmes/ReadMe_OCForum.md"
+hash = "07671c16f9ae1af7c7774793393057c790c0edfc83cb504230287ba21db73d4f"
+
+[[files]]
+file = "readme/readmes/ReadMe_TechnicPack.md"
+hash = "bff244cc87ab9150a2fb373bf89fc4b23b7ced84134e48a209aec4fe8aa0d7bb"
 
 [[files]]
 file = "scripts/addRecipes.zs"
