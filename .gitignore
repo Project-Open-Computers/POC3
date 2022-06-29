@@ -52,3 +52,5 @@ ForgeEssentials/modlist.txt
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+.technic/

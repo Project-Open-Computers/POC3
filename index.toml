@@ -13,10 +13,6 @@ file = "ReadMe_TechnicPack.md"
 hash = "8950dfd35380c5718b7ef83b8e86785e70f095d1e258062847b57a5e41debe2b"
 
 [[files]]
-file = "bin/modpack.jar"
-hash = "29a7372b5801c2ea01acffa8b238256d131d770bcd18148d6f2d5c2a40bc6a6a"
-
-[[files]]
 file = "config/AE2Stuff/readme.txt"
 hash = "0267af34c1928a0ff3a23a40546dbd457eea83726cb4a8cb96ac9340fe9343f0"
 
@@ -3509,20 +3505,12 @@ file = "local/ftbutilities/ranks.txt"
 hash = "af8cc3632313ab4d09b74861d26266470a0aa60e59a6e368333f9589f69805c6"
 
 [[files]]
+file = "logo.png"
+hash = "ac1971e359f113a8ac2f14c90693b47b64d88e26fb9702c087f272d455bd7ceb"
+
+[[files]]
 file = "mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar"
 hash = "54c063e72abb6af999d80b94a2f1c9593c6ef0bb7769f3410d2a49f47c1ba3b0"
-
-[[files]]
-file = "mods/OpenComputers-MC1.12.2-1.7.5.212.jar"
-hash = "5ecf53d2e50ee9d278b3d848e39c888f36e1736a6307806cb27e82593b45d248"
-
-[[files]]
-file = "mods/OpenSecurity/assets/opensecurity/sounds/alarms/klaxon1.ogg"
-hash = "535fa0b607f39a65a46690ee636db8b27354e7d0f0727d15cfe959fb666bfac2"
-
-[[files]]
-file = "mods/OpenSecurity/assets/opensecurity/sounds/alarms/klaxon2.ogg"
-hash = "8ee6545db98086558bde7608f938bf0b28f9208315e72fdb32bdd87b90eaf2bc"
 
 [[files]]
 file = "mods/a-lib.pw.toml"
@@ -3589,13 +3577,8 @@ hash = "263344812f0c408073f82296a630d87df7266d86ddc4b515052281224170a7e3"
 metafile = true
 
 [[files]]
-file = "mods/betterfps.pw.toml"
-hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
-metafile = true
-
-[[files]]
 file = "mods/bibliocraft.pw.toml"
-hash = "98239d01653fedc5b74d6f0d1fbef07ae5297a75842c00509223a9ed4d4c26c5"
+hash = "0f7d9b0173d552bd4dd5f3e6cca9e95ddf8a6ab039d70347500bd4416e9e21d1"
 metafile = true
 
 [[files]]
@@ -3937,46 +3920,6 @@ metafile = true
 file = "mods/mdxlib.pw.toml"
 hash = "8822dfde409370f26df46e486d98168a6507fabe2e2cd78f0d9db0630d5355c3"
 metafile = true
-
-[[files]]
-file = "mods/memory_repo/com/enderio/core/EnderCore/1.12.2-0.5.73/EnderCore-1.12.2-0.5.73-core.jar"
-hash = "8dfbf4397bfc0be3bb3dd4aace983a522924d2b5157b6429710465d3a6e9af9f"
-
-[[files]]
-file = "mods/memory_repo/com/enderio/core/EnderCore/1.12.2-0.5.73/EnderCore-1.12.2-0.5.73-core.jar.meta"
-hash = "f56520ecd09cc90b6363cc9a3cc8c5904c86384db5183ea9138c1846a2a4f366"
-
-[[files]]
-file = "mods/memory_repo/com/enderio/core/EnderCore/1.12.2-0.5.76/EnderCore-1.12.2-0.5.76-core.jar"
-hash = "ac2a3984711c2ad64c8b00d67075a31809c16dc6bdf1aef9c7964b1d8acc2c9b"
-
-[[files]]
-file = "mods/memory_repo/com/enderio/core/EnderCore/1.12.2-0.5.76/EnderCore-1.12.2-0.5.76-core.jar.meta"
-hash = "e326630aa793ba826929b9a24495876963041698cbc0f45200f87fed58c1c9f0"
-
-[[files]]
-file = "mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar"
-hash = "efa758f805c4b61c863d2a1d87de92e379f975964271c7326ca344faa9935840"
-
-[[files]]
-file = "mods/memory_repo/com/github/mcjty/mcjtytools/0.0.21/mcjtytools-0.0.21.jar.meta"
-hash = "3e0df96d87ba5db7d5cdd743700477624f953fe7a7f299fc5d7597e3c501b75e"
-
-[[files]]
-file = "mods/memory_repo/info/loenwind/autoconfig/AutoConfig/1.12.2-1.0.2/AutoConfig-1.12.2-1.0.2.jar"
-hash = "07e017e50b918f9a1ddbc01777b24e74204155730e75628c68e923c4b2e559df"
-
-[[files]]
-file = "mods/memory_repo/info/loenwind/autoconfig/AutoConfig/1.12.2-1.0.2/AutoConfig-1.12.2-1.0.2.jar.meta"
-hash = "1087b9e893eb85b9a9e9f3656ce648f6cad55a2d69554ebb122bc214d73cfefe"
-
-[[files]]
-file = "mods/memory_repo/info/loenwind/autosave/AutoSave/1.12.2-1.0.11/AutoSave-1.12.2-1.0.11.jar"
-hash = "8b40573a923098b7505dc3a7333ea7994f99fdca5d1507f200959779f768e14b"
-
-[[files]]
-file = "mods/memory_repo/info/loenwind/autosave/AutoSave/1.12.2-1.0.11/AutoSave-1.12.2-1.0.11.jar.meta"
-hash = "aab3a4ece9ae1b1527b68442bc4e1fe764b4a5acd61eda29be5ec6c62d082133"
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
@@ -4322,32 +4265,12 @@ hash = "4b461c892b40b426ccee6246aafbf7eebc3ff6cb66c3ee947b958425aee5a85d"
 metafile = true
 
 [[files]]
-file = "readme/exportReadme.bat"
-hash = "b606a664f6a11882da7457191dac6c0755e31e908b36410092acbe102a39509e"
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
-file = "readme/exportReadme.lua"
-hash = "180762913aefaf3b8a7c9397ec3ea92ca9f1ca88a792dd0e6cdc13846e55c51b"
-
-[[files]]
-file = "readme/exportReadme.sh"
-hash = "99fc855f1df67148b44182f950ef0d82ea9fd59513704476dd793d619fc5cd05"
-
-[[files]]
-file = "readme/modlists/MODLIST.txt"
-hash = "bfbf542f224849dd2f8c732e09d43721a911af66857bc68f509ca2908fdce25d"
-
-[[files]]
-file = "readme/readmes/README.md"
-hash = "9549c590fffb2442225629b4a5b114b571e45bb6f548c990641d980556bda8d1"
-
-[[files]]
-file = "readme/readmes/ReadMe_OCForum.md"
-hash = "07671c16f9ae1af7c7774793393057c790c0edfc83cb504230287ba21db73d4f"
-
-[[files]]
-file = "readme/readmes/ReadMe_TechnicPack.md"
-hash = "bff244cc87ab9150a2fb373bf89fc4b23b7ced84134e48a209aec4fe8aa0d7bb"
+file = "packwiz-installer.jar"
+hash = "3583f2627e2e431ceb38c4cb9b21c9788fb5d1e3ecb1442b69fb068e74b15f7a"
 
 [[files]]
 file = "scripts/addRecipes.zs"
