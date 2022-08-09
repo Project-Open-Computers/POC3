@@ -6,9 +6,9 @@ On our server you have the possibility to access your OC disks using an FTP conn
 
 If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about POC in general as well as server events.
 
-MC server: poc3.bloodcoffeegames.com  
+MC server: poc3.namelessserver.net  
 Discord server: [https://discord.gg/v927kk7](https://discord.gg/v927kk7)  
-Modpack (GitHub): [https://github.com/toothlessblue/POC3](https://github.com/toothlessblue/POC3)  
+Modpack (GitHub): [https://github.com/Project-Open-Computers/POC3](https://github.com/Project-Open-Computers/POC3)  
 
 # Optifine
 We strongly recommend anyone to install optifine.
