@@ -3477,6 +3477,10 @@ file = "config/zettaindustries.cfg"
 hash = "10c933715a3d1543770af6b5b93394bb206018764980e39341216a6d39e6816b"
 
 [[files]]
+file = "downloadFiles.sh"
+hash = "7d3abd21afbdb79699f0bef03ac66b3c92894bcd93637ae114d2f524314abfce"
+
+[[files]]
 file = "local/client/ftblib.cfg"
 hash = "0ba2118aa959a3945004922e38a6986bbd08dc01d598541fa741853daae492ae"
 
@@ -3511,6 +3515,18 @@ hash = "ac1971e359f113a8ac2f14c90693b47b64d88e26fb9702c087f272d455bd7ceb"
 [[files]]
 file = "mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar"
 hash = "54c063e72abb6af999d80b94a2f1c9593c6ef0bb7769f3410d2a49f47c1ba3b0"
+
+[[files]]
+file = "mods/Commons0815-1.12.2-1.4.0.jar"
+hash = "b8302780b2d234fb686c48b149ea8705291dca2a5f4b252a1e1e1ae3759bef5d"
+
+[[files]]
+file = "mods/OpenEntity-1.0.0-alpha_20191016.jar"
+hash = "391ae0a3d661889c1613d366a8df3c339fd684b579565b35396f61c426d751c0"
+
+[[files]]
+file = "mods/OpenGlasses-MC1.12.2-2.2-53.jar"
+hash = "b9b78c5a769c00b4f8bd47d6e0618080068469d4159ee95406d81e1c57b416e3"
 
 [[files]]
 file = "mods/a-lib.pw.toml"
@@ -3578,7 +3594,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft.pw.toml"
-hash = "0f7d9b0173d552bd4dd5f3e6cca9e95ddf8a6ab039d70347500bd4416e9e21d1"
+hash = "98239d01653fedc5b74d6f0d1fbef07ae5297a75842c00509223a9ed4d4c26c5"
 metafile = true
 
 [[files]]
@@ -3649,11 +3665,6 @@ metafile = true
 [[files]]
 file = "mods/common-capabilities.pw.toml"
 hash = "99b24c15748577e8f08c7f8c3766b359e84b8ab5bc52a0f3c6bbe780611840f0"
-metafile = true
-
-[[files]]
-file = "mods/commons0815.pw.toml"
-hash = "aba619ad14a84abdcb9993a7aca90ee7d052f45b2f2825e89e3da0b90c001d7e"
 metafile = true
 
 [[files]]
@@ -3747,31 +3758,6 @@ hash = "d56f22049555a71eb22c72d4a07fdc520af07da3cbb0eeb0283bcef87c370a71"
 metafile = true
 
 [[files]]
-file = "mods/enderio-ae2-conduits.pw.toml"
-hash = "8229b6ec30218e224b50b7d5d7569578aa1f7fe2b74ca3dade8834573c46b069"
-metafile = true
-
-[[files]]
-file = "mods/enderio-base.pw.toml"
-hash = "e07a0c5cf98eba920b8c030998abc545bbec31f0346f70ea9d7bf6e590e46860"
-metafile = true
-
-[[files]]
-file = "mods/enderio-conduits.pw.toml"
-hash = "59cbf92409d0b7128d5a5ee21f73e95acdd6d0cbc9d7a92d624509513c082d9d"
-metafile = true
-
-[[files]]
-file = "mods/enderio-machines.pw.toml"
-hash = "16213180cbaeb769247edabfacfa30e02383b44085ecf21c82015fe717e09d7d"
-metafile = true
-
-[[files]]
-file = "mods/enderio-oc-conduits.pw.toml"
-hash = "8c7ffcc6ae10690d64037d065920d090f76ef577f8ad235ad567bad3ca9006dd"
-metafile = true
-
-[[files]]
 file = "mods/extracells2.pw.toml"
 hash = "40128b235af7cb2c5ccb70193e483762611dfca95a15e838d0967154142a7cc8"
 metafile = true
@@ -3797,13 +3783,8 @@ hash = "c244af42c8a807a79bd71a3959030966874126da31922ea8aab68819bc1e4a06"
 metafile = true
 
 [[files]]
-file = "mods/foamfix-optimization-mod.pw.toml"
-hash = "49231a7e4c1f8b01846415b4035b43cdf35a5d457d9393c3223878b357eca439"
-metafile = true
-
-[[files]]
 file = "mods/foamfix.pw.toml"
-hash = "d3e26c89528df7d9d2df670eae8c765f9c1e7dc3de476b7574c51dad9f50027a"
+hash = "49231a7e4c1f8b01846415b4035b43cdf35a5d457d9393c3223878b357eca439"
 metafile = true
 
 [[files]]
@@ -3997,22 +3978,12 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "c821312385a88cefe783b5c9989b1e392d0e5b490b20ed436e0caa265794eaba"
-metafile = true
-
-[[files]]
-file = "mods/openentity.pw.toml"
-hash = "3b0dd87324b4ee53b2f1932f9effe53b0ebafce22efde25e808019d523ecc017"
+hash = "459e036627d48be34bf8226c13109b04b24f3d41c45e742981be064f7f182bdc"
 metafile = true
 
 [[files]]
 file = "mods/openfm.pw.toml"
 hash = "a221c454cee81830a12f2cc592e2931a695d11e225cb8a9015a4e136ad736ad8"
-metafile = true
-
-[[files]]
-file = "mods/openglasses2.pw.toml"
-hash = "ac4bdc816f608fa5b2f6e8f2b07e701296775dfb6b7ebaf4a15b461322e82093"
 metafile = true
 
 [[files]]
