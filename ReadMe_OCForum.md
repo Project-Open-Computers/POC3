@@ -8,9 +8,9 @@ We are open for any suggestions and to do some events like game jams if the inte
 
 If you want to join the project we recommend you to join our [Discord server](https://discord.gg/v927kk7) too. There you can talk with us and get news about POC in general as well as server events.
 
-MC server: poc3.bloodcoffeegames.com  
+MC server: poc3.namelessserver.net  
 Discord server: https://discord.gg/v927kk7  
-Modpack (GitHub): https://github.com/toothlessblue/POC3  
+Modpack (GitHub): https://github.com/Project-Open-Computers/POC3  
 Modpack (Technic Launcher): https://www.technicpack.net/modpack/projectoc-reboot.1745971
 
 # Optifine
