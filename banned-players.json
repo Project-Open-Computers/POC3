@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "dc55a70a-a8ff-4332-b510-11382823e3cd",
+    "name": "Lay_2020",
+    "created": "2022-01-16 00:21:06 +0100",
+    "source": "Server",
+    "expires": "forever",
+    "reason": ""
+  },
+  {
+    "uuid": "e46539d1-d643-40da-96d3-cca8ff8a0202",
+    "name": "NoBoots4Snake",
+    "created": "2022-01-16 00:21:01 +0100",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "VPN AND pretty sure its Lay_2020"
+  }
+]
